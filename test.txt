@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+test del file
+=======
+test del file
+201711-21 learn github! 
+>>>>>>> Stashed changes
